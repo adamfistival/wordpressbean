@@ -1,0 +1,4 @@
+<?php
+/* Wordfence temporary file security header */
+echo "Nothing to see here!\n"; exit(0);
+?>a:17:{s:9:"cacheType";s:0:"";s:15:"firewallEnabled";s:1:"1";s:6:"apiKey";s:160:"90d90021a22f9115ed3b7f37bd0c26c209ec0b76c9d00a1df2a469baef9590b762d7f989d1d4dcf552f5d5db60802aeb802351d8086b5bc1b200191498cd0f3cd789697d0b03921aee2bf5457ef58512";s:9:"howGetIPs";s:0:"";s:11:"whitelisted";s:0:"";s:6:"isPaid";s:0:"";s:11:"blockedTime";s:3:"300";s:18:"liveTrafficEnabled";s:1:"1";s:14:"disableCookies";s:1:"0";s:10:"tourClosed";s:1:"1";s:10:"autoUpdate";s:1:"1";s:11:"alertEmails";s:24:"adamfistival91@gmail.com";s:17:"actUpdateInterval";s:0:"";s:7:"debugOn";s:1:"0";s:13:"welcomeClosed";s:1:"1";s:38:"email_summary_dashboard_widget_enabled";s:1:"1";s:22:"email_summary_interval";s:8:"biweekly";}
